@@ -1,14 +1,5 @@
 <template>
     <header>
-        <!-- <nav class="navbar bg-primary">
-            <div class="container-fluid">
-                <span class="navbar-brand ms-3 mb-0 h1 fw-bold text-white"> အိပ်မက် အဘိဓာန်</span>
-                <ul class="navbar-nav">
-                    <li class="nav-item">ပင်မ စာမျက်နှာ</li>|
-                    <li class="nav-item">အက္ခရာစဥ်</li>
-                </ul>
-            </div>
-        </nav> -->
         <nav class="navbar navbar-expand-lg" style="background-color: #e3f2fd;">
             <div class="container-fluid">
                 <span class="navbar-brand ms-3 mb-0 h1 fw-bold"> အိပ်မက် အဘိဓာန်</span>
